@@ -1,20 +1,16 @@
-# 📊 Projeto de Análise e Automação de Dados – Supermercado
+ Projeto de Análise e Automação de Dados – Supermercado
 
-Este projeto foi desenvolvido com o objetivo de praticar **Análise de Dados**, utilizando **Python para automação e tratamento dos dados** e **Power BI para visualização e criação de dashboards**.
+Este projeto foi desenvolvido com o objetivo de praticar Análise de Dados, utilizando Python para automação e tratamento dos dados e Power BI para visualização e criação de dashboards.
 
 O foco foi transformar dados brutos de vendas em informações organizadas e fáceis de analisar.
 
----
+ Tecnologias Utilizadas
+Python (Pandas)
+Power BI
+Git e GitHub
+CSV (dados estruturados)
 
-## 🛠️ Tecnologias Utilizadas
-- **Python** (Pandas)
-- **Power BI**
-- **Git e GitHub**
-- **CSV (dados estruturados)**
-
----
-
-## 📁 Estrutura do Projeto
+Estrutura do Projeto
 projeto-analise-automacao-dados/
 │
 ├── dados/
@@ -27,7 +23,7 @@ projeto-analise-automacao-dados/
 ├── python/
 │ └── automacao-dados.py # Script de automação em Python
 
-## ⚙️ Etapas do Projeto (Passo a Passo)
+Etapas do Projeto (Passo a Passo)
 
 1. Importação dos Dados
 Os dados de vendas foram importados a partir de um arquivo CSV utilizando a biblioteca **Pandas** no Python.
