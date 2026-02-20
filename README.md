@@ -1,6 +1,6 @@
  Projeto de Análise e Automação de Dados – Supermercado
 
-Este projeto foi desenvolvido com o objetivo de praticar Análise de Dados, utilizando Python para automação e tratamento dos dados e Power BI para visualização e criação de dashboards.
+Este projeto foi desenvolvido com o objetivo de praticar Análise de Dados, utilizando Python para automação e tratamento dos dados e Power BI para visualização e criação de dashboard.
 
 O foco foi transformar dados brutos de vendas em informações organizadas e fáceis de analisar.
 
