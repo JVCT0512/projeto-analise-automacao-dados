@@ -94,8 +94,6 @@ Faturamento por Linha de Produto
 Faturamento Mensal
 Ranking de Produtos por Faturamento
 
-O dashboard foi organizado com foco em clareza, layout limpo e fácil leitura.
-
  Objetivo do Projeto
 
 Este projeto foi desenvolvido para Praticar Python aplicado à análise de dados, Demonstrar automação de tratamento de dados, Criar dashboard no Power BI e Servir como projeto de portfólio para vagas de estágio em dados
